@@ -1,0 +1,23 @@
+{
+    "name":"",
+    "sprites":{
+        "Shaco_Box_01.webp":"https://raw.githubusercontent.com/Wh1teZz/Shaco_Sprites_ToS/main/Shaco_Box_01.webp",
+        "Shaco_Box_02.webp":"https://raw.githubusercontent.com/Wh1teZz/Shaco_Sprites_ToS/main/Shaco_Box_02.webp",
+        "Shaco_Box_03.webp":"https://raw.githubusercontent.com/Wh1teZz/Shaco_Sprites_ToS/main/Shaco_Box_03.webp",
+        "Shaco_Box_04.webp":"https://raw.githubusercontent.com/Wh1teZz/Shaco_Sprites_ToS/main/Shaco_Box_04.webp",
+        "Shaco_Box_05.webp":"https://raw.githubusercontent.com/Wh1teZz/Shaco_Sprites_ToS/main/Shaco_Box_05.webp",
+        "Shaco_Sprite_01.webp":"https://raw.githubusercontent.com/Wh1teZz/Shaco_Sprites_ToS/main/Shaco_Sprite_01.webp",
+        "Shaco_Sprite_02.webp":"https://raw.githubusercontent.com/Wh1teZz/Shaco_Sprites_ToS/main/Shaco_Sprite_02.webp",
+        "Shaco_Sprite_03.webp":"https://raw.githubusercontent.com/Wh1teZz/Shaco_Sprites_ToS/main/Shaco_Sprite_03.webp",
+        "Shaco_Sprite_04.webp":"https://raw.githubusercontent.com/Wh1teZz/Shaco_Sprites_ToS/main/Shaco_Sprite_04.webp",
+        "Shaco_Sprite_05.webp":"https://raw.githubusercontent.com/Wh1teZz/Shaco_Sprites_ToS/main/Shaco_Sprite_05.webp",
+        "Shaco_Sprite_06.webp":"https://raw.githubusercontent.com/Wh1teZz/Shaco_Sprites_ToS/main/Shaco_Sprite_06.webp",
+        "Shaco_Sprite_07.webp":"https://raw.githubusercontent.com/Wh1teZz/Shaco_Sprites_ToS/main/Shaco_Sprite_07.webp",
+        "Shaco_Sprite_08.webp":"https://raw.githubusercontent.com/Wh1teZz/Shaco_Sprites_ToS/main/Shaco_Sprite_08.webp",
+        "Shaco_Sprite_09.webp":"https://raw.githubusercontent.com/Wh1teZz/Shaco_Sprites_ToS/main/Shaco_Sprite_09.webp",
+        "Shaco_Sprite_Clone_01.webp":"https://raw.githubusercontent.com/Wh1teZz/Shaco_Sprites_ToS/main/Shaco_Sprite_Clone_01.webp",
+        "Shaco_Sprite_Clone_02.webp":"https://raw.githubusercontent.com/Wh1teZz/Shaco_Sprites_ToS/main/Shaco_Sprite_Clone_02.webp",
+        "Shaco_Sprite_Smoke_01.webp":"https://raw.githubusercontent.com/Wh1teZz/Shaco_Sprites_ToS/main/Shaco_Sprite_Smoke_01.webp",
+        "Shaco_Sprite_Smoke_02.webp":"https://raw.githubusercontent.com/Wh1teZz/Shaco_Sprites_ToS/main/Shaco_Sprite_Smoke_02.webp"
+    }
+}
